@@ -227,6 +227,13 @@ hr {
   display: flex;
 }
 
+.banner:before {
+   background-image: url('img/grid_0.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 350px;
+}
+
 .banner .banner-table {
   padding: 20px 10px;
   width: 100%;
