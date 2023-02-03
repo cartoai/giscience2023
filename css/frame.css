@@ -46,6 +46,16 @@ video {
   user-select: none;
 }
 
+h1 {
+  font-size: 36px;
+  color: #333333;
+  margin: 30px 0 0 0;
+  padding: 0;
+  font-weight: bold;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
 h2 {
   font-size: 24px;
   color: #333333;
@@ -53,6 +63,7 @@ h2 {
   padding: 0;
   font-weight: bold;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  text-align: center;
 }
 
 h3 {
@@ -62,6 +73,7 @@ h3 {
   padding: 0;
   font-weight: bold;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  text-align: center;
 }
 
 ul,
