@@ -242,10 +242,6 @@ hr {
   color: white;
 }
 
-.banner img {
-  opacity: 0.5;
-}
-
 .flex-column {
   display: flex;
   flex-direction: column;
